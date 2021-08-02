@@ -1,0 +1,25 @@
+body {
+    background: url('./images/hells-kitchen.gif') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#content {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
+
+#gordon {
+    height: 98vh;
+    width: 20vw;
+    overflow: hidden;
+}
+
+#main {
+    border: solid;
+    width: 700px;
+    height: 1000px;
+}
